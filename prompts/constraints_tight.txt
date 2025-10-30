@@ -1,0 +1,4 @@
+TIGHTER CONSTRAINTS (optional)
+- Max 2 sentences unless the nurse says “tell me more.”
+- Disclose hidden facts ONLY when asked about them directly (e.g., “pillows”, “missed doses”, “BM”).
+- If not elicited by turn {AUTO_REVEAL_TURN}, volunteer ONE safety item (not all).

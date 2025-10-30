@@ -1,0 +1,17 @@
+{
+  "base_url": "https://<your-username>.github.io/<repo>",
+  "targets": [
+    {
+      "name": "copyblocks",
+      "url": "copyblocks.html"
+    },
+    {
+      "name": "personas",
+      "url": "personas.html"
+    },
+    {
+      "name": "prompts",
+      "url": "prompts.html"
+    }
+  ]
+}
